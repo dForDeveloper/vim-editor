@@ -1,0 +1,13 @@
+{
+  "identifier": "standardnotesvimeditor",
+  "name": "Vim Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.3.7",
+  "description": "Vim Editor",
+  "url": "https://github.com/dForDeveloper/vim-editor",
+  "download_url": "https://github.com/dForDeveloper/vim-editor/archive/refs/heads/main.zip",
+  "latest_url": "https://github.com/dForDeveloper/vim-editor/blob/main/extension.json",
+  "marketing_url": "",
+  "thumbnail_url": ""
+}
